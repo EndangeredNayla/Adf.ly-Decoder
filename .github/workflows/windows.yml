@@ -35,4 +35,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: AdflyDecoder-win32
-        path: D:\a\AdflyDecoder\AdflyDecoder\dist
+        path: D:\a\Adfly-Decoder\Adfly-Decoder\dist
